@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Lorena 👩🏻</h1>
+<h1 align="center">Lorena🏻</h1>
 <h3 align="center">Web Development Student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorqrz&label=Profile%20views&color=0e75b6&style=flat" alt="lorqrz" /> </p>
@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lorqrz" alt="lorqrz" /></a> </p>
 
 - 👩🏻‍💻 I’m currently learning **Web Development at Gama Academy.**
+- Sem tempo para atualizar o github. Novidades em breve.
 
 - 📧 E-mail: **lorqrz@gmail.com**
 
