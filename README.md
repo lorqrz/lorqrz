@@ -1,13 +1,9 @@
-<h1 align="center">Lorena</h1>
-<h3 align="center"> Web Development Student </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lorqrz&label=Profile%20views&color=0e75b6&style=flat" alt="lorqrz" /> </p>
+<h1 align="center"><b>Hello, I'm Lorena! 🧐</b></h1>
+<h3 align="center"> Currently a Web Development student - Full Stack-to-be </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lorqrz" alt="lorqrz" /></a> </p>
 
-- 👩🏻‍💻 I’m currently learning **Web Development at Gama Academy.**
-- Sem tempo para atualizar o github. Novidades em breve.
-
+- 👩🏻‍💻 I’m currently learning **Web Development at Gama Academy**. I also have a master's degree in Biology in the fields of Ichthyology, Ecology and Bioststistics.
 - 📧 E-mail: **lorqrz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
