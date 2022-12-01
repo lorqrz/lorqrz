@@ -1,9 +1,9 @@
-<h1 align="center"><b>Hello, I'm Lorena! 🧐🤓</b></h1>
-<h3 align="center"> Currently a Web Development student - Full Stack-to-be </h3>
+<h1 align="center"><b>Hello, I'm Lorena! 🧐</b></h1>
+<h3 align="center"> Web Developer in progress. 🤓</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lorqrz" alt="lorqrz" target="_blank" /></a> </p>
 
-- 👩🏻‍💻 I’m currently learning **Web Development at Gama Academy**. I also have a master's degree in Biology in the fields of Ichthyology, Ecology and Biostatistics.
+- 👩🏻‍💻 I’m currently learning **Web Development at Gama Academy**. I also have a master's degree in Biology in the fields of Ichthyology, Ecology and Biostatistics, and a high interest in Data Science and Data Analytics (goals).
 - 📧 E-mail: **lorqrz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
