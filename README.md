@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hello, I'm Lorena! 🧐</b></h1>
+<h1 align="center"><b>Hello, I'm Lorena! 🧐🤓</b></h1>
 <h3 align="center"> Currently a Web Development student - Full Stack-to-be </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lorqrz" alt="lorqrz" target="_blank" /></a> </p>
