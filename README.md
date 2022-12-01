@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lorqrz" alt="lorqrz" /></a> </p>
 
-- 👩🏻‍💻 I’m currently learning **Web Development at Gama Academy**. I also have a master's degree in Biology in the fields of Ichthyology, Ecology and Bioststistics.
+- 👩🏻‍💻 I’m currently learning **Web Development at Gama Academy**. I also have a master's degree in Biology in the fields of Ichthyology, Ecology and Biostatistics.
 - 📧 E-mail: **lorqrz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
