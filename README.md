@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hello, I'm Lorena! 🧐</b></h1>
+<h1 align="center"><b>Hello...</b></h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lorqrz" alt="lorqrz" target="_blank" /></a> </p>
 
 - 👩🏻‍💻 I’m currently learning **Python**.
